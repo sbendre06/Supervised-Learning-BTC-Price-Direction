@@ -1,4 +1,4 @@
-BITCOIN LINEAR FACTOR PRICING MODEL
+BITCOIN PRICING MODELS
 
 Factors (pulled from CryptoQuant): 
 - Exchange Reserve
