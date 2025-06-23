@@ -1,4 +1,4 @@
-*** BITCOIN PRICING MODELS ***
+# BITCOIN PRICING MODELS
 
 *** On-Chain factors (pulled from CryptoQuant): ***
 - Exchange Reserve
