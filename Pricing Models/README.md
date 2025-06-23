@@ -1,4 +1,4 @@
-# BITCOIN PRICING MODELS
+# Bitcoin Trend Prediction using Machine Learning
 
 **On-Chain factors (pulled from CryptoQuant):**
 - Exchange Reserve
@@ -14,7 +14,7 @@
 - MVRV Ratio
 - Open Interest
 
-*** Market factors (pulled from Bloomberg / yfinance API) ***
+**Market factors (pulled from Bloomberg / yfinance API):**
 - S&P 500
 - Nasdaq
 - Dow Jones
@@ -27,7 +27,7 @@
 - EUR:USD
 - USD:CNY
 
-*** Economic factors (pulled from Bloomberg / linear extrapolation) ***
+**Economic factors (pulled from Bloomberg / linear extrapolation):**
 - CPI
 - Fed Funds Rate
 - 10Y Treasury Yield
@@ -35,12 +35,27 @@
 - M2 Money Supply
 - Unemployment Rate
 
-Response variable:
+**Response variable:**
+- *Price direction (classification ML)*
+Decided against:
 - Percent return (USD change): (P_t - P_(t-1)) / P_(t-1)
 - Log return (USD change): log(P_t / P_(t-1))
 
-*** Bitcoin price direction ***
-
 ========================================================================
 
+## Feature Engineering
+- Correlation matrices
+- Boruta
+- Principal Component Analysis (PCA)
+
+## Model Selection
+- Logistic Regression
+- Random Forest
+- Support Vector Machine (SVM)
+
+- Multilayer Perceptron (MLP)
+- Long Short Term Memory Recurrent Neural Network (LSTM)
+
+## Output
+- Predicting Bitcoin price direction / movement
 
