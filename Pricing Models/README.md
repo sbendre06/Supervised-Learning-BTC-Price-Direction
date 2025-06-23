@@ -1,6 +1,6 @@
 # BITCOIN PRICING MODELS
 
-*** On-Chain factors (pulled from CryptoQuant): ***
+**On-Chain factors (pulled from CryptoQuant):**
 - Exchange Reserve
 - Miner Reserve
 - Puell Multiple
