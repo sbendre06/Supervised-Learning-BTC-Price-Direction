@@ -37,7 +37,8 @@
 
 **Response variable:**
 - *Price direction (classification ML)*
-Decided against:
+
+**Decided against:**
 - Percent return (USD change): (P_t - P_(t-1)) / P_(t-1)
 - Log return (USD change): log(P_t / P_(t-1))
 
