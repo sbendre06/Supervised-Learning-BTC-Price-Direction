@@ -27,7 +27,7 @@
 - EUR:USD
 - USD:CNY
 
-**Economic factors (pulled from Bloomberg / linear extrapolation):**
+**Economic factors (pulled from Bloomberg / linear interpolation):**
 - CPI
 - Fed Funds Rate
 - 10Y Treasury Yield
