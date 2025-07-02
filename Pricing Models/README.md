@@ -58,4 +58,3 @@
 
 ## Output
 - Predicting Bitcoin price direction / movement
-
