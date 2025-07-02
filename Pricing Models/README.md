@@ -47,7 +47,6 @@
 ## Feature Engineering
 - Correlation matrices
 - Boruta
-- Principal Component Analysis (PCA)
 
 ## Model Selection
 - Logistic Regression
