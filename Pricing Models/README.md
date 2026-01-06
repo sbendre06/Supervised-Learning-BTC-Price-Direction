@@ -58,3 +58,15 @@
 
 ## Output
 - Predicting Bitcoin price direction / movement
+
+========================================================================
+
+CONCLUSIONS:
+
+- Our highest model’s accuracy was 55.94% in logistic regression
+- Considering professional traders often look for 55-60% directionally correct trades, this is a significant result
+- Strong linear correlation between Bitcoin and major stock indices, gold, silver, and **copper
+
+Based on our evaluation…
+- Bitcoin seems to be a safe investment through traditional ETFs or futures / options contracts
+- Future research should be done on LSTMs with larger dataset
