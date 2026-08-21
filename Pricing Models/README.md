@@ -45,15 +45,13 @@
 ========================================================================
 
 ## Feature Engineering
-- Correlation matrices
+- Correlation Matrix
 - Boruta
 
 ## Model Selection
 - Logistic Regression
 - Random Forest
 - Support Vector Machine (SVM)
-
-- Multilayer Perceptron (MLP)
 - Long Short Term Memory Recurrent Neural Network (LSTM)
 
 ## Output
@@ -64,8 +62,8 @@
 CONCLUSIONS:
 
 - Our highest model’s accuracy was 55.94% in logistic regression
-- Considering professional traders often look for 55-60% directionally correct trades, this is a significant result
-- Strong linear correlation between Bitcoin and major stock indices, gold, silver, and **copper
+- Possibly strong for 55-60% directionally correct trades, next step would require significant backtesting and strategy development
+- Strong linear correlation between Bitcoin and major stock indices, gold, silver, and copper
 
 Based on our evaluation…
 - Bitcoin seems to be a safe investment through traditional ETFs or futures / options contracts
